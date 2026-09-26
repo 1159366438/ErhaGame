@@ -35,4 +35,4 @@ dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=
 
 ## 数据存储
 
-游戏列表与封面保存在 `%AppData%\WindowsGameApp\`。
+游戏列表与封面保存在 `%AppData%\ErhaGame\`。
